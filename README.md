@@ -1,2 +1,2 @@
-# sublime-test-3
+# sublime-text-3
 Sync repo for sublime settings
